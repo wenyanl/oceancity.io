@@ -1099,7 +1099,7 @@ div#preloader {
 }
 
 .awesome-img>a::after {
-  background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+  background: rgba(116, 114, 114, 0.7) none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -2127,15 +2127,15 @@ span.email-notes {
 --------------------------------------------------------------*/
 .footer-area {
   padding: 40px 0;
-  background: #f9f9f9;
+  background: rgba(0, 0, 0, 0.8);
 }
 
 .footer-head p {
-  color: #444;
+  color: #fff;
 }
 
 .footer-head h4 {
-  color: #444;
+  color: #fff;
   font-size: 16px;
   letter-spacing: 2px;
   padding-bottom: 10px;
@@ -2147,7 +2147,7 @@ span.email-notes {
 }
 
 .footer-logo h2 {
-  color: #222;
+  color: #fff;
   padding: 0;
   margin: 0;
   font-size: 36px;
@@ -2156,6 +2156,19 @@ span.email-notes {
 }
 
 .footer-logo h2 span {
+  color: #3ec1d5;
+}
+
+.footer-logo {
+  color: #fff;
+  padding: 0;
+  margin: 0;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.footer-logo span {
   color: #3ec1d5;
 }
 
@@ -2675,7 +2688,7 @@ span.email-notes {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color: #fff;
   position: relative;
   padding-bottom: 12px;
 }
