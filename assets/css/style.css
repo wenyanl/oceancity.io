@@ -475,7 +475,7 @@ div#preloader {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: #444444;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -484,7 +484,7 @@ div#preloader {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0d2529;
+  color: #fff;
 }
 
 .navbar-mobile a:hover,
