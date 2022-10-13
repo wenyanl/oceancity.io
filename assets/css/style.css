@@ -293,6 +293,34 @@ div#preloader {
   }
 }
 
+@media (max-width: 370px) {
+
+  #header .logo .logoch {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 411px) {
+
+  #header .logo h1 {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 367px) {
+
+  #header .logo h1 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 343px) {
+
+  #header .logo h1 {
+    font-size: 12px;
+  }
+}
+
 .header-bg {
   background: url(../img/background/page-header.jpg);
   background-repeat: no-repeat;
