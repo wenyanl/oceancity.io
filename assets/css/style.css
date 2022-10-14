@@ -724,6 +724,20 @@ div#preloader {
   }
 }
 
+@media (max-width: 383px) {
+  #hero p {
+    font-size: 22px;
+    line-height: 1.2;
+  }
+}
+
+@media (max-width: 328px) {
+  #hero p {
+    font-size: 20px;
+    line-height: 1.2;
+  }
+}
+
 #hero .carousel-fade {
   overflow: hidden;
 }
